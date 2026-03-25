@@ -201,7 +201,7 @@ Use these accounts to test the application:
 
 ### Already Deployed! ✅
 
-The application is **live** at: https://golf-charity-subscription-platform-omega.vercel.app/
+The application is **live** at:
 
 - Automatically deployed via Vercel's GitHub integration
 - Connected to Neon PostgreSQL production database
@@ -378,8 +378,8 @@ node scripts/seed-users.js
 
 ## 🔗 Resources
 
-- **Live Application**: https://golf-charity-subscription-platform-omega.vercel.app/
-- **GitHub Repository**: https://github.com/avinashrajputt/Golf-Charity-Subscription-Platform
+- **Live Application**: 
+- **GitHub Repository**: https://github.com/Ashutosh4567/Golf-Charity-Subscription-Platform-main
 - **Neon Database Console**: https://console.neon.tech
 - **Vercel Deployment**: https://vercel.com
 - **Next.js Documentation**: https://nextjs.org/docs
@@ -451,25 +451,12 @@ STRIPE_SECRET_KEY=sk_live_xxx
 - [ ] Two-factor authentication
 - [ ] Admin audit logs
 
-## 📞 Support & Contact
-
-**Project Owner**: Digital Heroes  
-**Contact**: digitalheroes.co.in  
-**Repository**: GitHub - Golf-Charity-Subscription-Platform
-
-## 📄 License
-
-Private - Digital Heroes  
-All rights reserved. Built as part of the Digital Heroes initiative.
-
----
-
 ## 📋 Summary
 
 This is a **fully functional, production-ready Golf Charity Subscription Platform** built with modern technologies. The application is live at the Vercel URL above, uses PostgreSQL for persistent data, bcryptjs for secure authentication, and Stripe for payments.
 
 ### Current Production Status
-- ✅ **Live & Accessible**: https://golf-charity-subscription-platform-omega.vercel.app/
+- ✅ **Live & Accessible**: 
 - ✅ **Database Connected**: Neon PostgreSQL
 - ✅ **Authentication Working**: bcryptjs with test accounts
 - ✅ **API Functional**: All core endpoints operational
@@ -482,5 +469,3 @@ This is a **fully functional, production-ready Golf Charity Subscription Platfor
 4. To deploy your own: Fork repo → Connect to Vercel → Add DATABASE_URL → Done!
 
 ---
-
-**Built with ❤️ by Digital Heroes Team** 🌟
